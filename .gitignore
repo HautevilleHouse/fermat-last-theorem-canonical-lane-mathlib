@@ -1,0 +1,13 @@
+# Lean
+/build/
+/lake-packages/
+.lake/
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/settings.json
